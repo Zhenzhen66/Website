@@ -1,0 +1,16 @@
+﻿  06.c
+D:\C语言第一颗作业\c_code2\06.c(29,20): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+D:\C语言第一颗作业\c_code2\06.c(29,16): warning C4024: “read_and_save”: 形参和实参 1 的类型不同
+D:\C语言第一颗作业\c_code2\06.c(30,20): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+D:\C语言第一颗作业\c_code2\06.c(30,16): warning C4024: “read_and_save”: 形参和实参 1 的类型不同
+D:\C语言第一颗作业\c_code2\06.c(31,20): warning C4047: “函数”:“char”与“char [20]”的间接级别不同
+D:\C语言第一颗作业\c_code2\06.c(31,16): warning C4024: “read_and_save”: 形参和实参 1 的类型不同
+D:\C语言第一颗作业\c_code2\06.c(44,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\C语言第一颗作业\c_code2\06.c(44,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\C语言第一颗作业\c_code2\06.c(44,12): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\C语言第一颗作业\c_code2\06.c(44,12): message : 此参数用作缓冲区大小
+D:\C语言第一颗作业\c_code2\06.c(25,47): warning C4101: “txt4”: 未引用的局部变量
+D:\C语言第一颗作业\c_code2\06.c(25,27): warning C4101: “txt2”: 未引用的局部变量
+D:\C语言第一颗作业\c_code2\06.c(25,7): warning C4101: “txt0”: 未引用的局部变量
+D:\C语言第一颗作业\c_code2\06.c(74,25): warning C4028: 形参 1 与声明不同
+  c_code2.vcxproj -> D:\C语言第一颗作业\c_code2\x64\Debug\c_code2.exe
